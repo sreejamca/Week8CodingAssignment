@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(212, 224, 231);
+}
+#places{
+    font-size:40px;
+    text-shadow: 2px 4px 4px rgba(89, 111, 153, 0.6);
+    text-align: center;
+    color: rgb(5, 107, 107);
+}
+b{
+    color:rgba(252, 6, 84, 0.887);
+}
+.img{
+    border:3px solid rgb(53, 102, 4);
+    border-radius:8px;
+}
+.link:hover{
+ color:brown;
+ background-color: transparent;
+}
+footer{
+    text-align: center;
+}

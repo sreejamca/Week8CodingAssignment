@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(135, 197, 210);
+}
+header+a{
+
+    color:blueviolet;
+}
+.link:hover{
+    color:rgb(242, 52, 52);
+    background-color: transparent;
+}
+h1{
+    color: rgb(13, 38, 123);
+    text-shadow: 2px 4px 4px rgba(46,91,173,0.6);
+    text-align: center;
+    font-size:50px ;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h2,h3{
+    color:brown;
+}
+.para{
+    color:brown;
+}
+table,th,td{
+    border:1px solid;
+}
+table{
+    border-collapse:collapse;
+    width:35%;
+}
+td{
+    text-align:center;
+}
+ul>li{
+    color:rgb(46, 43, 191);
+}
+.image{
+    border:3px solid rgb(108, 128, 217) ;
+    border-radius:20px;
+}
+footer{
+    text-align: center;
+}
